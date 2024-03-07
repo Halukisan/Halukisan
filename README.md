@@ -13,7 +13,7 @@ There have some tips that can help you learn about me:
 
 喜欢大模型相关的内容，尝试过调用ChatGLM大模型API来开发前后端分离的项目，想要自己训练一个大（小）模型。
 [Mistral](https://modelscope.cn/models/TabbyML/Mistral-7B/summary)在各方面的评分非常好，仅次于[ChatGLM3 6B](https://modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)的表现,详细请参考 
-(数据学习)[https://www.datalearner.com/ai-models/llm-evaluation]。
+[数据学习](https://www.datalearner.com/ai-models/llm-evaluation)。
 
 而对于产品型的大模型开发，个人觉得选取小模型更加适合。公司或者学校内部进行数据大规模的检索，这种场景下，主要需要的是某些学校或者公司内部产品相关问题的精确回答而不是需要一个知识全面的AI。
 
