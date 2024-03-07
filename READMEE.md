@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Chinese](https://github.com/Halukisan/Halukisan/blob/main/README.md)|[English]()
+[Chinese](https://github.com/Halukisan/Halukisan/blob/main/README.md)|[English](https://github.com/Halukisan/Halukisan/blob/main/READMEE.md)
 
 **Halukisan/Halukisan** Front-end and back-end development engineer, commonly used MVC and DDD architecture, familiar with SpringBoot and Vue, currently very interested in large models. You can see the homework I wrote for school in Neuproject, First stores all the notes I took while learning programming, and MyBoke stores the source code of the blog.
 
