@@ -1,5 +1,5 @@
 ### Hi there 👋
-[中文](https://github.com/Halukisan/Halukisan/blob/main/README.md)|[英文]()
+[中文](https://github.com/Halukisan/Halukisan/blob/main/README.md)|[英文](https://github.com/Halukisan/Halukisan/blob/main/READMEE.md)
 
 **Halukisan/Halukisan** 前后端开发工程师，常用MVC和DDD架构，熟悉SpringBoot和Vue，目前对大模型很感兴趣。你可以在Neuproject中看到我敷衍学校所写的作业，First中存放着所有学习编程的过程中所记下的笔记，MyBoke中存放着博客的源码。
 
