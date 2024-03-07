@@ -17,10 +17,8 @@ There have some tips that can help you learn about me:
 而对于产品型的大模型开发，个人觉得选取小模型更加适合。公司或者学校内部进行数据大规模的检索，这种场景下，主要需要的是某些学校或者公司内部产品相关问题的精确回答而不是需要一个知识全面的AI。
 
 快速训练一个用于“交作业”的模型，可以选择Mistral 7B。国外有现有的在线训练模型的网站（忘记了），也可以使用[魔塔社区](https://modelscope.cn/home)里面提供的算力。
+![image](https://github.com/Halukisan/Halukisan/assets/102407304/7808aaae-58c7-458e-a40e-91ce0027648a)
 ![image](https://github.com/Halukisan/Halukisan/assets/102407304/97c321ba-e697-40d7-831a-30157f937b89)
-![image](https://github.com/Halukisan/Halukisan/assets/102407304/77a933ca-f25a-4315-b984-8507635354d8)
-![image](https://github.com/Halukisan/Halukisan/assets/102407304/8298b745-430d-4a9c-91b1-ab6fb2045c50)
-![image](https://github.com/Halukisan/Halukisan/assets/102407304/dcedab91-e0ef-4c48-8c29-6fb5464f0487)
 
 通过数据可以看到Mistral 7B的表现遥遥领先~
 
