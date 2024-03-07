@@ -13,7 +13,7 @@ There have some tips that can help you learn about me:
 
 I like content related to large models. I have tried calling the ChatGLM large model API to develop a project with front-end and back-end separation. I want to train a large (small) model myself.
 [Mistral](https://modelscope.cn/models/TabbyML/Mistral-7B/summary) has very good ratings in all aspects, second only to [ChatGLM3 6B](https://modelscope.cn/models/ZhipuAI/ chatglm3-6b/summary) performance, please refer to the details
-(Data Learning) [https://www.datalearner.com/ai-models/llm-evaluation].
+[Data Learning] (https://www.datalearner.com/ai-models/llm-evaluation).
 
 For product-type large model development, I personally feel that small models are more suitable. Large-scale data retrieval is carried out within a company or school. In this scenario, what is mainly needed is accurate answers to questions related to the internal products of certain schools or companies rather than an AI with comprehensive knowledge.
 
