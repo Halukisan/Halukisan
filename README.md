@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[中文](https://github.com/Halukisan/Halukisan/blob/main/README.md)[英文]()
 
 **Halukisan/Halukisan** 前后端开发工程师，常用MVC和DDD架构，熟悉SpringBoot和Vue，目前对大模型很感兴趣。你可以在Neuproject中看到我敷衍学校所写的作业，First中存放着所有学习编程的过程中所记下的笔记，MyBoke中存放着博客的源码。
 
@@ -12,7 +12,8 @@ There have some tips that can help you learn about me:
 ### **Interest**
 
 喜欢大模型相关的内容，尝试过调用ChatGLM大模型API来开发前后端分离的项目，想要自己训练一个大（小）模型。
-[Mistral](https://modelscope.cn/models/TabbyML/Mistral-7B/summary)在各方面的评分非常好，仅次于[ChatGLM3 6B](https://modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)的表现,详细请参考(数据学习)[https://www.datalearner.com/ai-models/llm-evaluation]。
+[Mistral](https://modelscope.cn/models/TabbyML/Mistral-7B/summary)在各方面的评分非常好，仅次于[ChatGLM3 6B](https://modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)的表现,详细请参考 
+(数据学习)[https://www.datalearner.com/ai-models/llm-evaluation]。
 
 而对于产品型的大模型开发，个人觉得选取小模型更加适合。公司或者学校内部进行数据大规模的检索，这种场景下，主要需要的是某些学校或者公司内部产品相关问题的精确回答而不是需要一个知识全面的AI。
 
