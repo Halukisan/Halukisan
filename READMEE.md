@@ -47,6 +47,8 @@ The architectural design of the model is very important. The commonly used trans
 For prompts and responses, a special model is needed to calculate the embedding value. It is not recommended to use java (vector does not support it) to call it. The design of the vector database is very important. Prompt and embedding and answer and timestamp... set the scalar timestamp to assist search.
 
 #### Work
-Currently interning at xFusion, assisting in the implementation of AI. Processed the data, studied and investigated the tool framework model,
+Previously interned at Xfusion, assisting in the implementation of AI. Processed the data, studied and investigated the tool framework model,
 
-Write at 2024/3/7 23:55
+Now focus on the activities inside DataWhale, you can see my latest progress in DataWhaleTrain. 
+
+Write at 2024/4/16 23：04
