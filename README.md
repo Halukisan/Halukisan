@@ -48,6 +48,7 @@ There have some tips that can help you learn about me:
 对于prompt和应答，需要有一个专门的模型去计算embedding值，不建议使用java（vector不支持）去调用。向量数据库的设计非常重要，prompt和embedding和answer和timestamp......设置标量timestamp辅助搜索。
 
 #### 工作
-目前在xFusion实习，辅助AI落地。处理了数据，学习调研了工具框架模型，
-
-Write at 2024/3/7 23:55
+曾经在xFusion实习，辅助AI落地。处理了数据，学习调研了工具框架模型，
+#### NOW
+现在专注于DataWhale里面的活动，你可以在DataWhaleTrain里面看到我的最新进展。
+Write at 2024/4/16 23：04
